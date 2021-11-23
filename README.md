@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Alm0st1770
+- 🌱 I’m currently learning c++, c#
